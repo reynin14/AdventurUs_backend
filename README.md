@@ -1,25 +1,5 @@
-# README
+Scope: Find users’ previous travel destinations and solicit recommendations they would like to share from their trips (Back End).
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# module5_final_backend
+Technologies used:
+- Ruby On Rails Backend
+- Created a Rails API to store user’s information including travel destinations, recommendations; and user authentication. 
